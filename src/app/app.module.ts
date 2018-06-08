@@ -40,7 +40,7 @@ import { WidgetService } from '../widget/widget.service';
 import { MyApp } from './app.component';
 import { AuthEffects } from './auth/auth.effect';
 import { AuthService } from './auth/auth.service';
-import { MyFirebaseAppConfig } from './my-firebase-app-config';
+import { MyFirebaseAppConfig } from '../pages/credenciais/credenciais';
 
 @NgModule({
   declarations: [
